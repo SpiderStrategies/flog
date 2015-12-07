@@ -11,3 +11,8 @@ var flog = require('flog')('/the/path/to/my/log/file')
 ... some code later ...
 
 flog('Some message I want recorded')
+
+
+Require like:
+
+"flog": "git+ssh://git@github.com/SpiderStrategies/flog.git"
